@@ -23,9 +23,9 @@ If you find this work useful, please cite:
 
 ## Getting Started
 
-```
+
 Download the KITTI dataset from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d). The LiDAR dataset only is used for this experiment. Download the velodyne point clouds and prepare it based on the guidelines. 
-```
+
 
 ### Code Support
 
