@@ -89,9 +89,10 @@ export NUMBAPRO_LIBDEVICE=/usr/local/cuda/nvvm/libdevice
 ```
 
 #### 4. PYTHONPATH
-```bash
+
 Add wcnn3d/ to your PYTHONPATH. You may add like the following if you are using 
 ubuntu and the code is in your home directory.
+```bash
 export PYTHONPATH=$PYTHONPATH:/home/xxxx/wcnn3d
 ```
 
